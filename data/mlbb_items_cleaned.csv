@@ -1,0 +1,631 @@
+item_name,category,description,stats,passive,cost,image_url,document
+Berserker's Fury,Item / Attack,Crit Chance & Damage,"+65 Physical Attack, +25% Crit Chance",unique +40% Crit Damage,2390 gold,https://www.mlbbguides.com/tupian/zhuangbei/berserkers-fury.png,"Item: Berserker's Fury
+Category: Item / Attack
+Cost: 2390 gold
+Description: Crit Chance & Damage
+Stats: +65 Physical Attack, +25% Crit Chance
+Passive: unique +40% Crit Damage"
+Blade of Despair,Item / Attack,Highest Physical Attack,"+160 Physical Attack, +5% Movement Speed",Despair Dealing damage to non-Minion enemies below 50% HP increases Physical Attack by 25% for 2 seconds (takes effect before the damage is dealt).,3010 gold,https://www.mlbbguides.com/tupian/zhuangbei/blade-of-despair.png,"Item: Blade of Despair
+Category: Item / Attack
+Cost: 3010 gold
+Description: Highest Physical Attack
+Stats: +160 Physical Attack, +5% Movement Speed
+Passive: Despair Dealing damage to non-Minion enemies below 50% HP increases Physical Attack by 25% for 2 seconds (takes effect before the damage is dealt)."
+Blade of the Heptaseas,Item / Attack,Best for Assassins,"+70 Physical Attack, +250 HP",unique +15 Physical Penetration,1950 gold,https://www.mlbbguides.com/tupian/zhuangbei/blade-of-the-heptaseas.png,"Item: Blade of the Heptaseas
+Category: Item / Attack
+Cost: 1950 gold
+Description: Best for Assassins
+Stats: +70 Physical Attack, +250 HP
+Passive: unique +15 Physical Penetration"
+Corrosion Scythe,Item / Attack,One-Hit Slow,"+30 Physical Attack, +30% Attack Speed, +5% Movement Speed",Corrosive Basic Attacks gain 80 extra Physical Damage and slow the target by 8% (halved for ranged Basic Attacks) for 1.5 seconds. Stacks up to 5 times.,2050 gold,https://www.mlbbguides.com/tupian/zhuangbei/corrosion-scythe.png,"Item: Corrosion Scythe
+Category: Item / Attack
+Cost: 2050 gold
+Description: One-Hit Slow
+Stats: +30 Physical Attack, +30% Attack Speed, +5% Movement Speed
+Passive: Corrosive Basic Attacks gain 80 extra Physical Damage and slow the target by 8% (halved for ranged Basic Attacks) for 1.5 seconds. Stacks up to 5 times."
+Dagger,Item / Attack,+15 Physical Attack,+15 Physical Attack,,250 gold,https://www.mlbbguides.com/tupian/zhuangbei/dagger.png,"Item: Dagger
+Category: Item / Attack
+Cost: 250 gold
+Description: +15 Physical Attack
+Stats: +15 Physical Attack
+Passive:"
+Demon Hunter Sword,Item / Attack,Tank Killer,"+35 Physical Attack, +20% Attack Speed",Engulf Basic Attacks deal 8% of the target's current HP as extra Physical Damage (capped at 60 against minions).,2180 gold,https://www.mlbbguides.com/tupian/zhuangbei/demon-hunter-sword.png,"Item: Demon Hunter Sword
+Category: Item / Attack
+Cost: 2180 gold
+Description: Tank Killer
+Stats: +35 Physical Attack, +20% Attack Speed
+Passive: Engulf Basic Attacks deal 8% of the target's current HP as extra Physical Damage (capped at 60 against minions)."
+Endless Battle,Item / Attack,Enhanced Basic Attacks,"+60 Physical Attack, +250 HP, +10% Cooldown Reduction, +5% Movement Speed, +5 Mana Regen","Divine Justice After casting a skill, the next Basic Attack within 3 seconds deals (60% Total Physical Attack) extra True Damage and recovers 80 (+40% of Total Physical Attack) HP (1.5 seconds cooldown).",2330 gold,https://www.mlbbguides.com/tupian/zhuangbei/endless-battle.png,"Item: Endless Battle
+Category: Item / Attack
+Cost: 2330 gold
+Description: Enhanced Basic Attacks
+Stats: +60 Physical Attack, +250 HP, +10% Cooldown Reduction, +5% Movement Speed, +5 Mana Regen
+Passive: Divine Justice After casting a skill, the next Basic Attack within 3 seconds deals (60% Total Physical Attack) extra True Damage and recovers 80 (+40% of Total Physical Attack) HP (1.5 seconds cooldown)."
+Fleeting Time,Item / Attack,Ultimate CD Reduction,"+30 Adaptive Attack, +600 HP, +15% Cooldown Reduction",Timestream Hero kills or assists reduce the Ultimate's current cooldown by 30%.,2050 gold,https://www.mlbbguides.com/tupian/zhuangbei/fleeting-time.png,"Item: Fleeting Time
+Category: Item / Attack
+Cost: 2050 gold
+Description: Ultimate CD Reduction
+Stats: +30 Adaptive Attack, +600 HP, +15% Cooldown Reduction
+Passive: Timestream Hero kills or assists reduce the Ultimate's current cooldown by 30%."
+Fury Hammer,Item / Attack,+35 Physical Attack,+35 Physical Attack,unique +12 Physical Penetration,830 gold,https://www.mlbbguides.com/tupian/zhuangbei/fury-hammer.png,"Item: Fury Hammer
+Category: Item / Attack
+Cost: 830 gold
+Description: +35 Physical Attack
+Stats: +35 Physical Attack
+Passive: unique +12 Physical Penetration"
+Golden Staff,Item / Attack,Enhance Attack Effects,"+55 Physical Attack, +15% Attack Speed",Swift Every 1% extra Crit Chance gained is converted into 1% extra Attack Speed.,2000 gold,https://www.mlbbguides.com/tupian/zhuangbei/golden-staff.png,"Item: Golden Staff
+Category: Item / Attack
+Cost: 2000 gold
+Description: Enhance Attack Effects
+Stats: +55 Physical Attack, +15% Attack Speed
+Passive: Swift Every 1% extra Crit Chance gained is converted into 1% extra Attack Speed."
+Great Dragon Spear,Item / Attack,CD Reduction & Crit,"+70 Physical Attack, +10% Cooldown Reduction, +20% Crit Chance","Supreme Warrior After casting an Ultimate, increase Movement Speed by 30% for 7.5 seconds. This effect has a 15 seconds cooldown.",2140 gold,https://www.mlbbguides.com/tupian/zhuangbei/great-dragon-spear.png,"Item: Great Dragon Spear
+Category: Item / Attack
+Cost: 2140 gold
+Description: CD Reduction & Crit
+Stats: +70 Physical Attack, +10% Cooldown Reduction, +20% Crit Chance
+Passive: Supreme Warrior After casting an Ultimate, increase Movement Speed by 30% for 7.5 seconds. This effect has a 15 seconds cooldown."
+Haas' Claws,Item / Attack,Lifesteal,"+40 Physical Attack, +15% Attack Speed, +20% Crit Chance",unique +20% Lifesteal,2020 gold,https://www.mlbbguides.com/tupian/zhuangbei/haas-claws.png,"Item: Haas' Claws
+Category: Item / Attack
+Cost: 2020 gold
+Description: Lifesteal
+Stats: +40 Physical Attack, +15% Attack Speed, +20% Crit Chance
+Passive: unique +20% Lifesteal"
+Hunter Strike,Item / Attack,Brief Speed-Up,"+80 Physical Attack, +10% Cooldown Reduction",unique +15 Physical Penetration,2010 gold,https://www.mlbbguides.com/tupian/zhuangbei/hunter-strike.png,"Item: Hunter Strike
+Category: Item / Attack
+Cost: 2010 gold
+Description: Brief Speed-Up
+Stats: +80 Physical Attack, +10% Cooldown Reduction
+Passive: unique +15 Physical Penetration"
+Iron Hunting Bow,Item / Attack,"+10 Physical Attack, +5% Cooldown Reduction","+10 Physical Attack, +5% Cooldown Reduction",,450 gold,https://www.mlbbguides.com/tupian/zhuangbei/iron-hunting-bow.png,"Item: Iron Hunting Bow
+Category: Item / Attack
+Cost: 450 gold
+Description: +10 Physical Attack, +5% Cooldown Reduction
+Stats: +10 Physical Attack, +5% Cooldown Reduction
+Passive:"
+Javelin,Item / Attack,+8% Crit Chance,+8% Crit Chance,,320 gold,https://www.mlbbguides.com/tupian/zhuangbei/javelin.png,"Item: Javelin
+Category: Item / Attack
+Cost: 320 gold
+Description: +8% Crit Chance
+Stats: +8% Crit Chance
+Passive:"
+Knife,Item / Attack,+10% Attack Speed,+10% Attack Speed,,280 gold,https://www.mlbbguides.com/tupian/zhuangbei/knife.png,"Item: Knife
+Category: Item / Attack
+Cost: 280 gold
+Description: +10% Attack Speed
+Stats: +10% Attack Speed
+Passive:"
+Legion Sword,Item / Attack,+60 Physical Attack,+60 Physical Attack,,910 gold,https://www.mlbbguides.com/tupian/zhuangbei/legion-sword.png,"Item: Legion Sword
+Category: Item / Attack
+Cost: 910 gold
+Description: +60 Physical Attack
+Stats: +60 Physical Attack
+Passive:"
+Magic Blade,Item / Attack,"+35 Physical Attack, +10% Lifesteal","+35 Physical Attack, +10% Lifesteal","Lifeline When taking damage that reduces HP below 30%, gains a (+60*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown.",1050 gold,https://www.mlbbguides.com/tupian/zhuangbei/magic-blade.png,"Item: Magic Blade
+Category: Item / Attack
+Cost: 1050 gold
+Description: +35 Physical Attack, +10% Lifesteal
+Stats: +35 Physical Attack, +10% Lifesteal
+Passive: Lifeline When taking damage that reduces HP below 30%, gains a (+60*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown."
+Malefic Gun,Item / Attack,Attack Range Increase,"+40 Physical Attack, +20% Attack Speed",Armor Buster Increase Physical Penetration by 30%.,2120 gold,https://www.mlbbguides.com/tupian/zhuangbei/malefic-gun.png,"Item: Malefic Gun
+Category: Item / Attack
+Cost: 2120 gold
+Description: Attack Range Increase
+Stats: +40 Physical Attack, +20% Attack Speed
+Passive: Armor Buster Increase Physical Penetration by 30%."
+Malefic Roar,Item / Attack,High Physical Penetration,+60 Physical Attack,Armor Buster Increase Physical Penetration by 30%.,2060 gold,https://www.mlbbguides.com/tupian/zhuangbei/malefic-roar.png,"Item: Malefic Roar
+Category: Item / Attack
+Cost: 2060 gold
+Description: High Physical Penetration
+Stats: +60 Physical Attack
+Passive: Armor Buster Increase Physical Penetration by 30%."
+Ogre Tomahawk,Item / Attack,"+25 Physical Attack, +230 HP","+25 Physical Attack, +230 HP",,650 gold,https://www.mlbbguides.com/tupian/zhuangbei/ogre-tomahawk.png,"Item: Ogre Tomahawk
+Category: Item / Attack
+Cost: 650 gold
+Description: +25 Physical Attack, +230 HP
+Stats: +25 Physical Attack, +230 HP
+Passive:"
+Power Potion,Item / Attack,"Automatically used after purchasing, giving 30 Physical Attack and 15% of Lifesteal for 120s. Can only have one potion effect at...","Automatically used after purchasing, giving 30 Physical Attack and 15% of Lifesteal for 120s. Can only have one potion effect at a time.","Increase Power Automatically used after purchasing, giving 30 Physical Attack and 15% of Lifesteal for 120s. Can only have one potion effect at a time.",1500 gold,https://www.mlbbguides.com/tupian/zhuangbei/power-potion.png,"Item: Power Potion
+Category: Item / Attack
+Cost: 1500 gold
+Description: Automatically used after purchasing, giving 30 Physical Attack and 15% of Lifesteal for 120s. Can only have one potion effect at...
+Stats: Automatically used after purchasing, giving 30 Physical Attack and 15% of Lifesteal for 120s. Can only have one potion effect at a time.
+Passive: Increase Power Automatically used after purchasing, giving 30 Physical Attack and 15% of Lifesteal for 120s. Can only have one potion effect at a time."
+Regular Spear,Item / Attack,"+20 Physical Attack, +10% Attack Speed","+20 Physical Attack, +10% Attack Speed",,600 gold,https://www.mlbbguides.com/tupian/zhuangbei/regular-spear.png,"Item: Regular Spear
+Category: Item / Attack
+Cost: 600 gold
+Description: +20 Physical Attack, +10% Attack Speed
+Stats: +20 Physical Attack, +10% Attack Speed
+Passive:"
+Rogue Meteor,Item / Attack,"+15% Attack Speed, +10% Crit Chance","+15% Attack Speed, +10% Crit Chance",,900 gold,https://www.mlbbguides.com/tupian/zhuangbei/rogue-meteor.png,"Item: Rogue Meteor
+Category: Item / Attack
+Cost: 900 gold
+Description: +15% Attack Speed, +10% Crit Chance
+Stats: +15% Attack Speed, +10% Crit Chance
+Passive:"
+Rose Gold Meteor,Item / Attack,Low-HP Shield,"+30 Physical Attack, +20% Attack Speed, +10% Lifesteal","Dragon Scale Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).",2030 gold,https://www.mlbbguides.com/tupian/zhuangbei/rose-gold-meteor.png,"Item: Rose Gold Meteor
+Category: Item / Attack
+Cost: 2030 gold
+Description: Low-HP Shield
+Stats: +30 Physical Attack, +20% Attack Speed, +10% Lifesteal
+Passive: Dragon Scale Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter)."
+Sea Halberd,Item / Attack,Healing Reduction,"+80 Physical Attack, +20% Attack Speed",Lifebane Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.,2050 gold,https://www.mlbbguides.com/tupian/zhuangbei/sea-halberd.png,"Item: Sea Halberd
+Category: Item / Attack
+Cost: 2050 gold
+Description: Healing Reduction
+Stats: +80 Physical Attack, +20% Attack Speed
+Passive: Lifebane Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds."
+Swift Crossbow,Item / Attack,+20% Attack Speed,+20% Attack Speed,Crossbow Each Basic Attack deals 40 extra Adaptive Damage.,1000 gold,https://www.mlbbguides.com/tupian/zhuangbei/swift-crossbow.png,"Item: Swift Crossbow
+Category: Item / Attack
+Cost: 1000 gold
+Description: +20% Attack Speed
+Stats: +20% Attack Speed
+Passive: Crossbow Each Basic Attack deals 40 extra Adaptive Damage."
+Vampire Mallet,Item / Attack,"+8 Physical Attack, +8% Lifesteal","+8 Physical Attack, +8% Lifesteal",,400 gold,https://www.mlbbguides.com/tupian/zhuangbei/vampire-mallet.png,"Item: Vampire Mallet
+Category: Item / Attack
+Cost: 400 gold
+Description: +8 Physical Attack, +8% Lifesteal
+Stats: +8 Physical Attack, +8% Lifesteal
+Passive:"
+War Axe,Item / Attack,Continuous Damage Boost,"+35 Physical Attack, +400 HP, +10% Cooldown Reduction, +8% Hybrid Lifesteal","Fighting Spirit Attacks grants 12 extra Physical Attack per second for 4 seconds, up to 6 stacks. Deals 10% extra True Damage based on the damage dealt (no damage reduction counted) at full stacks. (Marksmen, Mages, and Supports only receive 50% of these stacked effects.)",2100 gold,https://www.mlbbguides.com/tupian/zhuangbei/war-axe.png,"Item: War Axe
+Category: Item / Attack
+Cost: 2100 gold
+Description: Continuous Damage Boost
+Stats: +35 Physical Attack, +400 HP, +10% Cooldown Reduction, +8% Hybrid Lifesteal
+Passive: Fighting Spirit Attacks grants 12 extra Physical Attack per second for 4 seconds, up to 6 stacks. Deals 10% extra True Damage based on the damage dealt (no damage reduction counted) at full stacks. (Marksmen, Mages, and Supports only receive 50% of these stacked effects.)"
+Wind of Nature,Item / Attack,Physical Damage Immunity,"+30 Physical Attack, +20% Attack Speed, +10% Lifesteal",Wind Chant Become immune to all Physical Damage for 2 seconds (duration is halved if Main Role is not Marksman; 90 seconds cooldown).,1910 gold,https://www.mlbbguides.com/tupian/zhuangbei/wind-of-nature.png,"Item: Wind of Nature
+Category: Item / Attack
+Cost: 1910 gold
+Description: Physical Damage Immunity
+Stats: +30 Physical Attack, +20% Attack Speed, +10% Lifesteal
+Passive: Wind Chant Become immune to all Physical Damage for 2 seconds (duration is halved if Main Role is not Marksman; 90 seconds cooldown)."
+Windtalker,Item / Attack,Splash Damage,"+35% Attack Speed, +20% Crit Chance, +20 Movement Speed","Typhoon Every 5–2 seconds (reduced by 0.2 seconds for each Basic Attack), the next Basic Attack will hit up to 3 enemy units for 150–362 Magic Damage. (This attack can Crit and the damage increases to 200% against Minions.)",1880 gold,https://www.mlbbguides.com/tupian/zhuangbei/windtalker.png,"Item: Windtalker
+Category: Item / Attack
+Cost: 1880 gold
+Description: Splash Damage
+Stats: +35% Attack Speed, +20% Crit Chance, +20 Movement Speed
+Passive: Typhoon Every 5–2 seconds (reduced by 0.2 seconds for each Basic Attack), the next Basic Attack will hit up to 3 enemy units for 150–362 Magic Damage. (This attack can Crit and the damage increases to 200% against Minions.)"
+Expert Gloves,Item / Attack & Magic,"+30 Adaptive Attack,","+30 Adaptive Attack,",,500 gold,https://www.mlbbguides.com/tupian/zhuangbei/expert-gloves.png,"Item: Expert Gloves
+Category: Item / Attack & Magic
+Cost: 500 gold
+Description: +30 Adaptive Attack,
+Stats: +30 Adaptive Attack,
+Passive:"
+Sky Piercer,Item / Attack & Magic,Best for Finishers,"+60 Adaptive Attack, +15 Movement Speed","Lethality After dealing damage to an enemy hero, executes the hero if their HP is lower than 4%. Gains 10 stack(s) of Lethality for each kill and loses 30% current stack(s) for each death. Each stack of Lethality increases the HP threshold of the execute effect by 0.1%, stacking up 80 times.",1500 gold,https://www.mlbbguides.com/tupian/zhuangbei/sky-piercer.png,"Item: Sky Piercer
+Category: Item / Attack & Magic
+Cost: 1500 gold
+Description: Best for Finishers
+Stats: +60 Adaptive Attack, +15 Movement Speed
+Passive: Lethality After dealing damage to an enemy hero, executes the hero if their HP is lower than 4%. Gains 10 stack(s) of Lethality for each kill and loses 30% current stack(s) for each death. Each stack of Lethality increases the HP threshold of the execute effect by 0.1%, stacking up 80 times."
+Winter Crown,Item / Attack & Magic,Temporary Invincibility,"+45 Adaptive Attack, +400 HP, +5% Cooldown Reduction","Frozen Becomes frozen, untargetable, and immune to damage for 2 seconds (100 seconds cooldown). Cannot move or cast skills while frozen, but skills already cast won't be interrupted.",1910 gold,https://www.mlbbguides.com/tupian/zhuangbei/winter-crown.png,"Item: Winter Crown
+Category: Item / Attack & Magic
+Cost: 1910 gold
+Description: Temporary Invincibility
+Stats: +45 Adaptive Attack, +400 HP, +5% Cooldown Reduction
+Passive: Frozen Becomes frozen, untargetable, and immune to damage for 2 seconds (100 seconds cooldown). Cannot move or cast skills while frozen, but skills already cast won't be interrupted."
+Antique Cuirass,Item / Defense,Physical Attack Reduction,"+920 HP, +40 Physical Defense, +4 HP Regen","Deter When hit by a skill, reduces the attacker's Physical Damage by 6% for 2 seconds (this effect stacks up to 3 times).",2170 gold,https://www.mlbbguides.com/tupian/zhuangbei/antique-cuirass.png,"Item: Antique Cuirass
+Category: Item / Defense
+Cost: 2170 gold
+Description: Physical Attack Reduction
+Stats: +920 HP, +40 Physical Defense, +4 HP Regen
+Passive: Deter When hit by a skill, reduces the attacker's Physical Damage by 6% for 2 seconds (this effect stacks up to 3 times)."
+Ares Belt,Item / Defense,+600 HP,+600 HP,,700 gold,https://www.mlbbguides.com/tupian/zhuangbei/ares-belt.png,"Item: Ares Belt
+Category: Item / Defense
+Cost: 700 gold
+Description: +600 HP
+Stats: +600 HP
+Passive:"
+Athena's Shield,Item / Defense,Resist Burst Magic Damage,"+900 HP, +48 Magic Defense, +2 HP Regen","Shield Upon taking Magic Damage from enemy hero skills or Basic Attacks, reduces Magic Damage taken by 25% for 3 seconds (including the damage that triggers the effect)s. Regains this effect 5 seconds after leaving combat.",2150 gold,https://www.mlbbguides.com/tupian/zhuangbei/athenas-shield.png,"Item: Athena's Shield
+Category: Item / Defense
+Cost: 2150 gold
+Description: Resist Burst Magic Damage
+Stats: +900 HP, +48 Magic Defense, +2 HP Regen
+Passive: Shield Upon taking Magic Damage from enemy hero skills or Basic Attacks, reduces Magic Damage taken by 25% for 3 seconds (including the damage that triggers the effect)s. Regains this effect 5 seconds after leaving combat."
+Black Ice Shield,Item / Defense,"+20 Physical Defense, +20 Magic Defense","+20 Physical Defense, +20 Magic Defense","Fortress Shield For each enemy hero within 3.55 units, Hybrid Defense is increased by 4, up to 20.",780 gold,https://www.mlbbguides.com/tupian/zhuangbei/black-ice-shield.png,"Item: Black Ice Shield
+Category: Item / Defense
+Cost: 780 gold
+Description: +20 Physical Defense, +20 Magic Defense
+Stats: +20 Physical Defense, +20 Magic Defense
+Passive: Fortress Shield For each enemy hero within 3.55 units, Hybrid Defense is increased by 4, up to 20."
+Blade Armor,Item / Defense,Damage Reflection,+80 Physical Defense,unique +20% Crit Damage Reduction,1910 gold,https://www.mlbbguides.com/tupian/zhuangbei/blade-armor.png,"Item: Blade Armor
+Category: Item / Defense
+Cost: 1910 gold
+Description: Damage Reflection
+Stats: +80 Physical Defense
+Passive: unique +20% Crit Damage Reduction"
+Brute Force Breastplate,Item / Defense,"Attack, Speed Up, CC Reduction","+800 HP, +20 Physical Defense, +10% Cooldown Reduction","Brute Force Each second after dealing damage, gain 8 extra Adaptive Attack and 2% extra Movement Speed for 4 seconds, up to 6 stacks. Gain 25% extra Control Duration Reduction at full stacks.",2070 gold,https://www.mlbbguides.com/tupian/zhuangbei/brute-force-breastplate.png,"Item: Brute Force Breastplate
+Category: Item / Defense
+Cost: 2070 gold
+Description: Attack, Speed Up, CC Reduction
+Stats: +800 HP, +20 Physical Defense, +10% Cooldown Reduction
+Passive: Brute Force Each second after dealing damage, gain 8 extra Adaptive Attack and 2% extra Movement Speed for 4 seconds, up to 6 stacks. Gain 25% extra Control Duration Reduction at full stacks."
+Chastise Pauldron,Item / Defense,Reduce Enemy Attack Speed,"+900 HP, +40 Physical Defense",Chastise Taking damage will reduce the Attack Speed and Attack Speed cap of the attacker to 75% of normal for 2 seconds.,2100 gold,https://www.mlbbguides.com/tupian/zhuangbei/chastise-pauldron.png,"Item: Chastise Pauldron
+Category: Item / Defense
+Cost: 2100 gold
+Description: Reduce Enemy Attack Speed
+Stats: +900 HP, +40 Physical Defense
+Passive: Chastise Taking damage will reduce the Attack Speed and Attack Speed cap of the attacker to 75% of normal for 2 seconds."
+Cursed Helmet,Item / Defense,Survivability & Lane Clearing,"+1200 HP, +20 Magic Defense",Burning Soul Deals (1.2% Total HP) Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions.,1910 gold,https://www.mlbbguides.com/tupian/zhuangbei/cursed-helmet.png,"Item: Cursed Helmet
+Category: Item / Defense
+Cost: 1910 gold
+Description: Survivability & Lane Clearing
+Stats: +1200 HP, +20 Magic Defense
+Passive: Burning Soul Deals (1.2% Total HP) Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions."
+Dominance Ice,Item / Defense,Healing Reduction,"+40 Physical Defense, +40 Magic Defense, +5% Movement Speed","Fortress Shield For each enemy hero within 5 units, Hybrid Defense is increased by 8, up to 40.",2010 gold,https://www.mlbbguides.com/tupian/zhuangbei/dominance-ice.png,"Item: Dominance Ice
+Category: Item / Defense
+Cost: 2010 gold
+Description: Healing Reduction
+Stats: +40 Physical Defense, +40 Magic Defense, +5% Movement Speed
+Passive: Fortress Shield For each enemy hero within 5 units, Hybrid Defense is increased by 8, up to 40."
+Dreadnaught Armor,Item / Defense,+30 Physical Defense,+30 Physical Defense,"Deter When hit by a skill, reduces the attacker's Physical Damage by 4% for 2 seconds (this effect stacks up to 3 times).",730 gold,https://www.mlbbguides.com/tupian/zhuangbei/dreadnaught-armor.png,"Item: Dreadnaught Armor
+Category: Item / Defense
+Cost: 730 gold
+Description: +30 Physical Defense
+Stats: +30 Physical Defense
+Passive: Deter When hit by a skill, reduces the attacker's Physical Damage by 4% for 2 seconds (this effect stacks up to 3 times)."
+Guardian Helmet,Item / Defense,Constant HP Regen,"+1800 HP, +20 HP Regen","Recovery After 5 seconds out of combat, recover (2.5% Total HP) HP per second.",2500 gold,https://www.mlbbguides.com/tupian/zhuangbei/guardian-helmet.png,"Item: Guardian Helmet
+Category: Item / Defense
+Cost: 2500 gold
+Description: Constant HP Regen
+Stats: +1800 HP, +20 HP Regen
+Passive: Recovery After 5 seconds out of combat, recover (2.5% Total HP) HP per second."
+Healing Necklace,Item / Defense,+4 HP Regen,+4 HP Regen,,140 gold,https://www.mlbbguides.com/tupian/zhuangbei/healing-necklace.png,"Item: Healing Necklace
+Category: Item / Defense
+Cost: 140 gold
+Description: +4 HP Regen
+Stats: +4 HP Regen
+Passive:"
+Hero's Ring,Item / Defense,"+150 HP, +5% Cooldown Reduction","+150 HP, +5% Cooldown Reduction",,450 gold,https://www.mlbbguides.com/tupian/zhuangbei/heros-ring.png,"Item: Hero's Ring
+Category: Item / Defense
+Cost: 450 gold
+Description: +150 HP, +5% Cooldown Reduction
+Stats: +150 HP, +5% Cooldown Reduction
+Passive:"
+Immortality,Item / Defense,Self-Resurrection,"+850 HP, +15 Physical Defense",Immortal Resurrect 2.5 seconds upon death and gets 16% Max HP and a shield that can absorb 150(+70*Hero Level）damage. Shield lasts 3 seconds. This effect has a 210 seconds cooldown.,2120 gold,https://www.mlbbguides.com/tupian/zhuangbei/immortality.png,"Item: Immortality
+Category: Item / Defense
+Cost: 2120 gold
+Description: Self-Resurrection
+Stats: +850 HP, +15 Physical Defense
+Passive: Immortal Resurrect 2.5 seconds upon death and gets 16% Max HP and a shield that can absorb 150(+70*Hero Level）damage. Shield lasts 3 seconds. This effect has a 210 seconds cooldown."
+Leather Jerkin,Item / Defense,+14 Physical Defense,+14 Physical Defense,,220 gold,https://www.mlbbguides.com/tupian/zhuangbei/leather-jerkin.png,"Item: Leather Jerkin
+Category: Item / Defense
+Cost: 220 gold
+Description: +14 Physical Defense
+Stats: +14 Physical Defense
+Passive:"
+Magic Resist Cloak,Item / Defense,+14 Magic Defense,+14 Magic Defense,,220 gold,https://www.mlbbguides.com/tupian/zhuangbei/magic-resist-cloak.png,"Item: Magic Resist Cloak
+Category: Item / Defense
+Cost: 220 gold
+Description: +14 Magic Defense
+Stats: +14 Magic Defense
+Passive:"
+Molten Essence,Item / Defense,+540 HP,+540 HP,Burning Soul Deals (0.6% Total HP) Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions.,800 gold,https://www.mlbbguides.com/tupian/zhuangbei/molten-essence.png,"Item: Molten Essence
+Category: Item / Defense
+Cost: 800 gold
+Description: +540 HP
+Stats: +540 HP
+Passive: Burning Soul Deals (0.6% Total HP) Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions."
+Oracle,Item / Defense,Enhanced Regen,"+850 HP, +20 Physical Defense, +20 Magic Defense, +10% Cooldown Reduction",Bless Received Shield and HP Regen effects are increased by 25%.,1860 gold,https://www.mlbbguides.com/tupian/zhuangbei/oracle.png,"Item: Oracle
+Category: Item / Defense
+Cost: 1860 gold
+Description: Enhanced Regen
+Stats: +850 HP, +20 Physical Defense, +20 Magic Defense, +10% Cooldown Reduction
+Passive: Bless Received Shield and HP Regen effects are increased by 25%."
+Queen's Wings,Item / Defense,Low-HP Retaliation,"+750 HP, +30 Adaptive Attack, +10% Cooldown Reduction, +10% Spell Vamp","Demonize When HP drops below 40%, gains 30% Damage Reduction for 3 seconds and reduces skill cooldowns by 2 seconds. This effect has a 60 seconds cooldown.",2250 gold,https://www.mlbbguides.com/tupian/zhuangbei/queens-wings.png,"Item: Queen's Wings
+Category: Item / Defense
+Cost: 2250 gold
+Description: Low-HP Retaliation
+Stats: +750 HP, +30 Adaptive Attack, +10% Cooldown Reduction, +10% Spell Vamp
+Passive: Demonize When HP drops below 40%, gains 30% Damage Reduction for 3 seconds and reduces skill cooldowns by 2 seconds. This effect has a 60 seconds cooldown."
+Radiant Armor,Item / Defense,Magic Damage Reduction,"+950 HP, +40 Magic Defense, +12 HP Regen","Holy Blessing Taking Magic Damage grants 5(+1*Hero Level) Magic Defense for 5 seconds, up to 6 stacks (can only gain 1 stack(s) every 0.4 seconds).",1880 gold,https://www.mlbbguides.com/tupian/zhuangbei/radiant-armor.png,"Item: Radiant Armor
+Category: Item / Defense
+Cost: 1880 gold
+Description: Magic Damage Reduction
+Stats: +950 HP, +40 Magic Defense, +12 HP Regen
+Passive: Holy Blessing Taking Magic Damage grants 5(+1*Hero Level) Magic Defense for 5 seconds, up to 6 stacks (can only gain 1 stack(s) every 0.4 seconds)."
+Rock Potion,Item / Defense,"Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120 seconds. Can only have one potion effect at a time.","Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120 seconds. Can only have one potion effect at a time.","Increase Power Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120 seconds. Can only have one potion effect at a time.",1500 gold,https://www.mlbbguides.com/tupian/zhuangbei/rock-potion.png,"Item: Rock Potion
+Category: Item / Defense
+Cost: 1500 gold
+Description: Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120 seconds. Can only have one potion effect at a time.
+Stats: Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120 seconds. Can only have one potion effect at a time.
+Passive: Increase Power Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120 seconds. Can only have one potion effect at a time."
+Silence Robe,Item / Defense,"+540 HP, +23 Magic Defense","+540 HP, +23 Magic Defense",,1020 gold,https://www.mlbbguides.com/tupian/zhuangbei/silence-robe.png,"Item: Silence Robe
+Category: Item / Defense
+Cost: 1020 gold
+Description: +540 HP, +23 Magic Defense
+Stats: +540 HP, +23 Magic Defense
+Passive:"
+Steel Legplates,Item / Defense,+35 Physical Defense,+35 Physical Defense,,630 gold,https://www.mlbbguides.com/tupian/zhuangbei/steel-legplates.png,"Item: Steel Legplates
+Category: Item / Defense
+Cost: 630 gold
+Description: +35 Physical Defense
+Stats: +35 Physical Defense
+Passive:"
+Thunder Belt,Item / Defense,Damage for Tanks,"+600 HP, +15 Physical Defense, +15 Magic Defense, +20 Movement Speed","Thunderbolt Every 4 seconds, the next Basic Attack deals 50 (+100% Extra Physical Defense) (+100% Extra Magic Defense) extra True Damage to the target and enemies around them, and briefly slows them by 99%. Hybrid Defense permanently increases by 1 each time the attack hits an enemy hero. (This effect is reduced to 50% for Marksmen and Mages)",1820 gold,https://www.mlbbguides.com/tupian/zhuangbei/thunder-belt.png,"Item: Thunder Belt
+Category: Item / Defense
+Cost: 1820 gold
+Description: Damage for Tanks
+Stats: +600 HP, +15 Physical Defense, +15 Magic Defense, +20 Movement Speed
+Passive: Thunderbolt Every 4 seconds, the next Basic Attack deals 50 (+100% Extra Physical Defense) (+100% Extra Magic Defense) extra True Damage to the target and enemies around them, and briefly slows them by 99%. Hybrid Defense permanently increases by 1 each time the attack hits an enemy hero. (This effect is reduced to 50% for Marksmen and Mages)"
+Vitality Crystal,Item / Defense,+230 HP,+230 HP,,300 gold,https://www.mlbbguides.com/tupian/zhuangbei/vitality-crystal.png,"Item: Vitality Crystal
+Category: Item / Defense
+Cost: 300 gold
+Description: +230 HP
+Stats: +230 HP
+Passive:"
+Bloody Retribution,Item / Jungling,"Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and...","Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals HP equal to 300 plus 24% of the caster's extra HP from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.","active Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals HP equal to 300 plus 24% of the caster's extra HP from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.",Active,https://www.mlbbguides.com/tupian/zhuangbei/bloody-retribution.png,"Item: Bloody Retribution
+Category: Item / Jungling
+Cost: Active
+Description: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and...
+Stats: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals HP equal to 300 plus 24% of the caster's extra HP from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.
+Passive: active Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals HP equal to 300 plus 24% of the caster's extra HP from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5."
+Flame Retribution,Item / Jungling,"Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and...","Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 71-120 Physical Attack and Magic Power (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.","active Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 71-120 Physical Attack and Magic Power (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.",Active,https://www.mlbbguides.com/tupian/zhuangbei/flame-retribution.png,"Item: Flame Retribution
+Category: Item / Jungling
+Cost: Active
+Description: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and...
+Stats: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 71-120 Physical Attack and Magic Power (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.
+Passive: active Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 71-120 Physical Attack and Magic Power (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5."
+Ice Retribution,Item / Jungling,"Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and...","Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 52-80 Movement Speed (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.","active Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 52-80 Movement Speed (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.",Active,https://www.mlbbguides.com/tupian/zhuangbei/ice-retribution.png,"Item: Ice Retribution
+Category: Item / Jungling
+Cost: Active
+Description: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and...
+Stats: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 52-80 Movement Speed (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5.
+Passive: active Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 52-80 Movement Speed (scales with level) from them for 3 seconds. Retribution is upgraded when the total number of creep kills, hero kills, and assists reaches 5."
+Azure Blade,Item / Magic,"+5 Mana Regen, +5% Cooldown Reduction","+5 Mana Regen, +5% Cooldown Reduction","Judgement After casting a skill, the next Basic Attack within 3 seconds deals 50 extra True Damage (1.5 seconds cooldown).",600 gold,https://www.mlbbguides.com/tupian/zhuangbei/azure-blade.png,"Item: Azure Blade
+Category: Item / Magic
+Cost: 600 gold
+Description: +5 Mana Regen, +5% Cooldown Reduction
+Stats: +5 Mana Regen, +5% Cooldown Reduction
+Passive: Judgement After casting a skill, the next Basic Attack within 3 seconds deals 50 extra True Damage (1.5 seconds cooldown)."
+Blood Wings,Item / Magic,Speed Boost Shield,+90 Magic Power,Guard Gains a 800 (+100% Magic Power) Shield that will regenerate 20 seconds after being damaged. The Shield also grants 30 Movement Speed while it lasts and 150 Movement Speed for 1 second after it breaks.,2100 gold,https://www.mlbbguides.com/tupian/zhuangbei/blood-wings.png,"Item: Blood Wings
+Category: Item / Magic
+Cost: 2100 gold
+Description: Speed Boost Shield
+Stats: +90 Magic Power
+Passive: Guard Gains a 800 (+100% Magic Power) Shield that will regenerate 20 seconds after being damaged. The Shield also grants 30 Movement Speed while it lasts and 150 Movement Speed for 1 second after it breaks."
+Book of Sages,Item / Magic,"+8 Magic Power, +5% Cooldown Reduction","+8 Magic Power, +5% Cooldown Reduction",,450 gold,https://www.mlbbguides.com/tupian/zhuangbei/book-of-sages.png,"Item: Book of Sages
+Category: Item / Magic
+Cost: 450 gold
+Description: +8 Magic Power, +5% Cooldown Reduction
+Stats: +8 Magic Power, +5% Cooldown Reduction
+Passive:"
+Clock of Destiny,Item / Magic,For Magic Tanks,"+45 Magic Power, +400 HP, +400 Mana, +10% Cooldown Reduction","Destiny Gains 4.5(+0.5*Hero Level) Hybrid Defense for 5 seconds when dealing Magic Damage to enemy heroes, stacking up to 6 times (can gain 1 stack every 0.4 seconds).",2030 gold,https://www.mlbbguides.com/tupian/zhuangbei/clock-of-destiny.png,"Item: Clock of Destiny
+Category: Item / Magic
+Cost: 2030 gold
+Description: For Magic Tanks
+Stats: +45 Magic Power, +400 HP, +400 Mana, +10% Cooldown Reduction
+Passive: Destiny Gains 4.5(+0.5*Hero Level) Hybrid Defense for 5 seconds when dealing Magic Damage to enemy heroes, stacking up to 6 times (can gain 1 stack every 0.4 seconds)."
+Concentrated Energy,Item / Magic,Continuous Damage Boost,"+75 Magic Power, +400 HP",unique +20% Hybrid Lifesteal,2020 gold,https://www.mlbbguides.com/tupian/zhuangbei/concentrated-energy.png,"Item: Concentrated Energy
+Category: Item / Magic
+Cost: 2020 gold
+Description: Continuous Damage Boost
+Stats: +75 Magic Power, +400 HP
+Passive: unique +20% Hybrid Lifesteal"
+Divine Glaive,Item / Magic,Magic Penetration,+65 Magic Power,unique +40% Magic Penetration,1970 gold,https://www.mlbbguides.com/tupian/zhuangbei/divine-glaive.png,"Item: Divine Glaive
+Category: Item / Magic
+Cost: 1970 gold
+Description: Magic Penetration
+Stats: +65 Magic Power
+Passive: unique +40% Magic Penetration"
+Elegant Gem,Item / Magic,"+300 HP, +380 Mana","+300 HP, +380 Mana","Gift When HP drops below 50%, recovers 15% of HP over the next 3 seconds. When Mana drops below 50%, restores 15% of Mana over the next 3 seconds. Cooldown: 60 seconds.",700 gold,https://www.mlbbguides.com/tupian/zhuangbei/elegant-gem.png,"Item: Elegant Gem
+Category: Item / Magic
+Cost: 700 gold
+Description: +300 HP, +380 Mana
+Stats: +300 HP, +380 Mana
+Passive: Gift When HP drops below 50%, recovers 15% of HP over the next 3 seconds. When Mana drops below 50%, restores 15% of Mana over the next 3 seconds. Cooldown: 60 seconds."
+Enchanted Talisman,Item / Magic,Mana Regen & CD Reduction,"+70 Magic Power, +300 HP, +15% Cooldown Reduction",Mana Spring Regenerates 15% of Max Mana every 10 seconds.,2070 gold,https://www.mlbbguides.com/tupian/zhuangbei/enchanted-talisman.png,"Item: Enchanted Talisman
+Category: Item / Magic
+Cost: 2070 gold
+Description: Mana Regen & CD Reduction
+Stats: +70 Magic Power, +300 HP, +15% Cooldown Reduction
+Passive: Mana Spring Regenerates 15% of Max Mana every 10 seconds."
+Exotic Veil,Item / Magic,"+30 Magic Power, +5% Movement Speed","+30 Magic Power, +5% Movement Speed",,600 gold,https://www.mlbbguides.com/tupian/zhuangbei/exotic-veil.png,"Item: Exotic Veil
+Category: Item / Magic
+Cost: 600 gold
+Description: +30 Magic Power, +5% Movement Speed
+Stats: +30 Magic Power, +5% Movement Speed
+Passive:"
+Feather of Heaven,Item / Magic,Magic Basic Attacks,"+60 Magic Power, +20% Attack Speed, +10% Lifesteal, +5% Cooldown Reduction",Affliction Each Basic Attack deals extra 50 (+30% Total Magic Power) Magic Damage.,2030 gold,https://www.mlbbguides.com/tupian/zhuangbei/feather-of-heaven.png,"Item: Feather of Heaven
+Category: Item / Magic
+Cost: 2030 gold
+Description: Magic Basic Attacks
+Stats: +60 Magic Power, +20% Attack Speed, +10% Lifesteal, +5% Cooldown Reduction
+Passive: Affliction Each Basic Attack deals extra 50 (+30% Total Magic Power) Magic Damage."
+Flask of the Oasis,Item / Magic,Protect Teammates,"+60 Magic Power, +300 HP, +10% Cooldown Reduction",unique +12% Healing Effect,1850 gold,https://www.mlbbguides.com/tupian/zhuangbei/flask-of-the-oasis.png,"Item: Flask of the Oasis
+Category: Item / Magic
+Cost: 1850 gold
+Description: Protect Teammates
+Stats: +60 Magic Power, +300 HP, +10% Cooldown Reduction
+Passive: unique +12% Healing Effect"
+Flower of Hope,Item / Magic,+5% Adaptive Attack,+5% Adaptive Attack,"Flower of Hope Every 6 seconds, the next skill or Basic Attack deals an additional 60 (+30% Total Physical Attack) (+30% Total Magic Power) Magic Damage.",,https://www.mlbbguides.com/tupian/zhuangbei/flower-of-hope.png,"Item: Flower of Hope
+Category: Item / Magic
+Cost: 
+Description: +5% Adaptive Attack
+Stats: +5% Adaptive Attack
+Passive: Flower of Hope Every 6 seconds, the next skill or Basic Attack deals an additional 60 (+30% Total Physical Attack) (+30% Total Magic Power) Magic Damage."
+Genius Wand,Item / Magic,Magic Defense Reduction,"+75 Magic Power, +5% Movement Speed",unique +10 Magic Penetration,2000 gold,https://www.mlbbguides.com/tupian/zhuangbei/genius-wand.png,"Item: Genius Wand
+Category: Item / Magic
+Cost: 2000 gold
+Description: Magic Defense Reduction
+Stats: +75 Magic Power, +5% Movement Speed
+Passive: unique +10 Magic Penetration"
+Glowing Wand,Item / Magic,Healing Reduction,"+60 Magic Power, +300 HP, +5% Movement Speed","Scorch Dealing Magic Damage burns the targets for 3 seconds, also dealing extra Magic Damage equal to 1% of the target's Max HP per second.",2150 gold,https://www.mlbbguides.com/tupian/zhuangbei/glowing-wand.png,"Item: Glowing Wand
+Category: Item / Magic
+Cost: 2150 gold
+Description: Healing Reduction
+Stats: +60 Magic Power, +300 HP, +5% Movement Speed
+Passive: Scorch Dealing Magic Damage burns the targets for 3 seconds, also dealing extra Magic Damage equal to 1% of the target's Max HP per second."
+Holy Crystal,Item / Magic,Max Magic Power,+165 Magic Power,Mystery Gains 21%-35% extra Magic Power (scales with level).,3000 gold,https://www.mlbbguides.com/tupian/zhuangbei/holy-crystal.png,"Item: Holy Crystal
+Category: Item / Magic
+Cost: 3000 gold
+Description: Max Magic Power
+Stats: +165 Magic Power
+Passive: Mystery Gains 21%-35% extra Magic Power (scales with level)."
+Ice Queen Wand,Item / Magic,Slow on Skill Hit,"+60 Magic Power, +10% Spell Vamp, +300 HP, +7% Movement Speed","Ice Bound When a skill deals damage to an enemy hero, it will also slow them by 10% for 2 seconds (stacks up to 3 times). This effect has a 0.4 seconds cooldown.",2040 gold,https://www.mlbbguides.com/tupian/zhuangbei/ice-queen-wand.png,"Item: Ice Queen Wand
+Category: Item / Magic
+Cost: 2040 gold
+Description: Slow on Skill Hit
+Stats: +60 Magic Power, +10% Spell Vamp, +300 HP, +7% Movement Speed
+Passive: Ice Bound When a skill deals damage to an enemy hero, it will also slow them by 10% for 2 seconds (stacks up to 3 times). This effect has a 0.4 seconds cooldown."
+Lantern of Hope,Item / Magic,"+20 Magic Power, +4% Movement Speed, +2% Cooldown Reduction","+20 Magic Power, +4% Movement Speed, +2% Cooldown Reduction",Lantern of Hope The equipment's attributes scale with hero level.,,https://www.mlbbguides.com/tupian/zhuangbei/lantern-of-hope.png,"Item: Lantern of Hope
+Category: Item / Magic
+Cost: 
+Description: +20 Magic Power, +4% Movement Speed, +2% Cooldown Reduction
+Stats: +20 Magic Power, +4% Movement Speed, +2% Cooldown Reduction
+Passive: Lantern of Hope The equipment's attributes scale with hero level."
+Lightning Truncheon,Item / Magic,Splash Damage,"+75 Magic Power, +400 Mana, +10% Cooldown Reduction","Resonate Every 6 seconds, the next skill echoes, dealing 255 (+85% Magic Power) extra Magic Damage to all enemies in range.",2250 gold,https://www.mlbbguides.com/tupian/zhuangbei/lightning-truncheon.png,"Item: Lightning Truncheon
+Category: Item / Magic
+Cost: 2250 gold
+Description: Splash Damage
+Stats: +75 Magic Power, +400 Mana, +10% Cooldown Reduction
+Passive: Resonate Every 6 seconds, the next skill echoes, dealing 255 (+85% Magic Power) extra Magic Damage to all enemies in range."
+Magic Necklace,Item / Magic,+2 Mana Regen,+2 Mana Regen,,120 gold,https://www.mlbbguides.com/tupian/zhuangbei/magic-necklace.png,"Item: Magic Necklace
+Category: Item / Magic
+Cost: 120 gold
+Description: +2 Mana Regen
+Stats: +2 Mana Regen
+Passive:"
+Magic Potion,Item / Magic,"Automatically used after purchasing, increases Magic Power by 30 and Cooldown Reduction by 10% for 120s. Can only have one potion...","Automatically used after purchasing, increases Magic Power by 30 and Cooldown Reduction by 10% for 120s. Can only have one potion effect at a time.","Increase Power Automatically used after purchasing, increases Magic Power by 30 and Cooldown Reduction by 10% for 120s. Can only have one potion effect at a time.",1500 gold,https://www.mlbbguides.com/tupian/zhuangbei/magic-potion.png,"Item: Magic Potion
+Category: Item / Magic
+Cost: 1500 gold
+Description: Automatically used after purchasing, increases Magic Power by 30 and Cooldown Reduction by 10% for 120s. Can only have one potion...
+Stats: Automatically used after purchasing, increases Magic Power by 30 and Cooldown Reduction by 10% for 120s. Can only have one potion effect at a time.
+Passive: Increase Power Automatically used after purchasing, increases Magic Power by 30 and Cooldown Reduction by 10% for 120s. Can only have one potion effect at a time."
+Magic Wand,Item / Magic,+45 Magic Power,+45 Magic Power,,820 gold,https://www.mlbbguides.com/tupian/zhuangbei/magic-wand.png,"Item: Magic Wand
+Category: Item / Magic
+Cost: 820 gold
+Description: +45 Magic Power
+Stats: +45 Magic Power
+Passive:"
+Mystery Codex,Item / Magic,+15 Magic Power,+15 Magic Power,,300 gold,https://www.mlbbguides.com/tupian/zhuangbei/mystery-codex.png,"Item: Mystery Codex
+Category: Item / Magic
+Cost: 300 gold
+Description: +15 Magic Power
+Stats: +15 Magic Power
+Passive:"
+Mystic Container,Item / Magic,"+15 Magic Power, +8% Spell Vamp","+15 Magic Power, +8% Spell Vamp",,500 gold,https://www.mlbbguides.com/tupian/zhuangbei/mystic-container.png,"Item: Mystic Container
+Category: Item / Magic
+Cost: 500 gold
+Description: +15 Magic Power, +8% Spell Vamp
+Stats: +15 Magic Power, +8% Spell Vamp
+Passive:"
+Power Crystal,Item / Magic,+280 Mana,+280 Mana,,220 gold,https://www.mlbbguides.com/tupian/zhuangbei/power-crystal.png,"Item: Power Crystal
+Category: Item / Magic
+Cost: 220 gold
+Description: +280 Mana
+Stats: +280 Mana
+Passive:"
+Starlium Scythe,Item / Magic,Enhanced Basic Attacks,"+75 Magic Power, +10% Cooldown Reduction, +8% Hybrid Lifesteal, +6 Mana Regen","Crisis After casting a skill, the next Basic Attack within 3 seconds deals 90 (+60% Total Magic Power) extra True Damage and reduces the target's Movement Speed by 15% for 1.5 seconds (1.5 seconds cooldown).",2120 gold,https://www.mlbbguides.com/tupian/zhuangbei/starlium-scythe.png,"Item: Starlium Scythe
+Category: Item / Magic
+Cost: 2120 gold
+Description: Enhanced Basic Attacks
+Stats: +75 Magic Power, +10% Cooldown Reduction, +8% Hybrid Lifesteal, +6 Mana Regen
+Passive: Crisis After casting a skill, the next Basic Attack within 3 seconds deals 90 (+60% Total Magic Power) extra True Damage and reduces the target's Movement Speed by 15% for 1.5 seconds (1.5 seconds cooldown)."
+Tome of Evil,Item / Magic,"+30 Magic Power, +2 Mana Regen, +10% Cooldown Reduction","+30 Magic Power, +2 Mana Regen, +10% Cooldown Reduction",,950 gold,https://www.mlbbguides.com/tupian/zhuangbei/tome-of-evil.png,"Item: Tome of Evil
+Category: Item / Magic
+Cost: 950 gold
+Description: +30 Magic Power, +2 Mana Regen, +10% Cooldown Reduction
+Stats: +30 Magic Power, +2 Mana Regen, +10% Cooldown Reduction
+Passive:"
+Wishing Lantern,Item / Magic,Counter High HP,"+75 Magic Power, +400 Mana, +10% Cooldown Reduction","Butterfly Goddess For every 900 Magic Damage dealt to an enemy hero (calculated before Damage Reduction), a Butterfly Goddess is summoned to attack the enemy hero, dealing Magic Damage equal to 8% of their Current HP.",2250 gold,https://www.mlbbguides.com/tupian/zhuangbei/wishing-lantern.png,"Item: Wishing Lantern
+Category: Item / Magic
+Cost: 2250 gold
+Description: Counter High HP
+Stats: +75 Magic Power, +400 Mana, +10% Cooldown Reduction
+Passive: Butterfly Goddess For every 900 Magic Damage dealt to an enemy hero (calculated before Damage Reduction), a Butterfly Goddess is summoned to attack the enemy hero, dealing Magic Damage equal to 8% of their Current HP."
+Allow Throw,Item / Movement,Allow allied Jawhead to fling you.,Allow allied Jawhead to fling you.,Trust Allow allied Jawhead to fling you.,,https://www.mlbbguides.com/tupian/zhuangbei/allow-throw.png,"Item: Allow Throw
+Category: Item / Movement
+Cost: 
+Description: Allow allied Jawhead to fling you.
+Stats: Allow allied Jawhead to fling you.
+Passive: Trust Allow allied Jawhead to fling you."
+Arcane Boots,Item / Movement,Magic Penetration,"+40 Movement Speed, +15 Magic Power, +10 Magic Penetration",,720 gold,https://www.mlbbguides.com/tupian/zhuangbei/arcane-boots.png,"Item: Arcane Boots
+Category: Item / Movement
+Cost: 720 gold
+Description: Magic Penetration
+Stats: +40 Movement Speed, +15 Magic Power, +10 Magic Penetration
+Passive:"
+Boots,Item / Movement,+20 Movement Speed,+20 Movement Speed,,250 gold,https://www.mlbbguides.com/tupian/zhuangbei/boots.png,"Item: Boots
+Category: Item / Movement
+Cost: 250 gold
+Description: +20 Movement Speed
+Stats: +20 Movement Speed
+Passive:"
+Broken Heart,Item / Movement,Become immune to allied Cecilion's Moonlit Waltz in this match.,Become immune to allied Cecilion's Moonlit Waltz in this match.,Heart Broken Become immune to allied Cecilion's Moonlit Waltz in this match.,,https://www.mlbbguides.com/tupian/zhuangbei/broken-heart.png,"Item: Broken Heart
+Category: Item / Movement
+Cost: 
+Description: Become immune to allied Cecilion's Moonlit Waltz in this match.
+Stats: Become immune to allied Cecilion's Moonlit Waltz in this match.
+Passive: Heart Broken Become immune to allied Cecilion's Moonlit Waltz in this match."
+Demon Shoes,Item / Movement,Quick Mana Regen,"+40 Movement Speed, +10 Mana Regen",Mysticism Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2 seconds after taking damage from the hero.),720 gold,https://www.mlbbguides.com/tupian/zhuangbei/demon-shoes.png,"Item: Demon Shoes
+Category: Item / Movement
+Cost: 720 gold
+Description: Quick Mana Regen
+Stats: +40 Movement Speed, +10 Mana Regen
+Passive: Mysticism Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2 seconds after taking damage from the hero.)"
+Magic Shoes,Item / Movement,CD Reduction,"+40 Movement Speed, +10% Cooldown Reduction, +150 HP",,720 gold,https://www.mlbbguides.com/tupian/zhuangbei/magic-shoes.png,"Item: Magic Shoes
+Category: Item / Movement
+Cost: 720 gold
+Description: CD Reduction
+Stats: +40 Movement Speed, +10% Cooldown Reduction, +150 HP
+Passive:"
+Rapid Boots,Item / Movement,Movement Speed,"+65 Movement Speed, +35% Slow Reduction, +12 HP Regen",Side Effect Loses 20 Movement Speed for 5 seconds upon dealing or taking damage.,720 gold,https://www.mlbbguides.com/tupian/zhuangbei/rapid-boots.png,"Item: Rapid Boots
+Category: Item / Movement
+Cost: 720 gold
+Description: Movement Speed
+Stats: +65 Movement Speed, +35% Slow Reduction, +12 HP Regen
+Passive: Side Effect Loses 20 Movement Speed for 5 seconds upon dealing or taking damage."
+Resonating Heart,Item / Movement,Allow allied Cecilion to use Moonlit Waltz on the user of this equipment.,Allow allied Cecilion to use Moonlit Waltz on the user of this equipment.,Restore Allow allied Cecilion to use Moonlit Waltz on the user of this equipment.,,https://www.mlbbguides.com/tupian/zhuangbei/resonating-heart.png,"Item: Resonating Heart
+Category: Item / Movement
+Cost: 
+Description: Allow allied Cecilion to use Moonlit Waltz on the user of this equipment.
+Stats: Allow allied Cecilion to use Moonlit Waltz on the user of this equipment.
+Passive: Restore Allow allied Cecilion to use Moonlit Waltz on the user of this equipment."
+Swift Boots,Item / Movement,Attack Speed,"+40 Movement Speed, +15% Attack Speed",,720 gold,https://www.mlbbguides.com/tupian/zhuangbei/swift-boots.png,"Item: Swift Boots
+Category: Item / Movement
+Cost: 720 gold
+Description: Attack Speed
+Stats: +40 Movement Speed, +15% Attack Speed
+Passive:"
+Throw Forbidden,Item / Movement,Become immune to allied Jawhead's Ejector in this match.,Become immune to allied Jawhead's Ejector in this match.,Heavy Mountain Become immune to allied Jawhead's Ejector in this match.,,https://www.mlbbguides.com/tupian/zhuangbei/throw-forbidden.png,"Item: Throw Forbidden
+Category: Item / Movement
+Cost: 
+Description: Become immune to allied Jawhead's Ejector in this match.
+Stats: Become immune to allied Jawhead's Ejector in this match.
+Passive: Heavy Mountain Become immune to allied Jawhead's Ejector in this match."
+Tough Boots,Item / Movement,CC Duration Reduction,"+40 Movement Speed, +18 Magic Defense",Fortitude CC and Slow Duration reduced by 25%.,720 gold,https://www.mlbbguides.com/tupian/zhuangbei/tough-boots.png,"Item: Tough Boots
+Category: Item / Movement
+Cost: 720 gold
+Description: CC Duration Reduction
+Stats: +40 Movement Speed, +18 Magic Defense
+Passive: Fortitude CC and Slow Duration reduced by 25%."
+Warrior Boots,Item / Movement,Stackable Physical Defense,"+40 Movement Speed, +18 Physical Defense","Valor Gains 4 extra Physical Defense for 3 seconds when taking Physical Damage, up to 20.",720 gold,https://www.mlbbguides.com/tupian/zhuangbei/warrior-boots.png,"Item: Warrior Boots
+Category: Item / Movement
+Cost: 720 gold
+Description: Stackable Physical Defense
+Stats: +40 Movement Speed, +18 Physical Defense
+Passive: Valor Gains 4 extra Physical Defense for 3 seconds when taking Physical Damage, up to 20."
+Active - Conceal,Item / Roam,"Conceals nearby allied heroes (including self) and grants them 40% extra Movement Speed for 5 seconds, or until they deal or take...","Conceals nearby allied heroes (including self) and grants them 40% extra Movement Speed for 5 seconds, or until they deal or take damage. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.","active Conceals nearby allied heroes (including self) and grants them 40% extra Movement Speed for 5 seconds, or until they deal or take damage. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.",Active,https://www.mlbbguides.com/tupian/zhuangbei/active-conceal.png,"Item: Active - Conceal
+Category: Item / Roam
+Cost: Active
+Description: Conceals nearby allied heroes (including self) and grants them 40% extra Movement Speed for 5 seconds, or until they deal or take...
+Stats: Conceals nearby allied heroes (including self) and grants them 40% extra Movement Speed for 5 seconds, or until they deal or take damage. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.
+Passive: active Conceals nearby allied heroes (including self) and grants them 40% extra Movement Speed for 5 seconds, or until they deal or take damage. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion."
+Passive - Dire Hit,Item / Roam,"After dealing damage to an enemy hero, mark them for 3 seconds. Allied heroes' sttacks on marked targets deal additional Physical...","After dealing damage to an enemy hero, mark them for 3 seconds. Allied heroes' sttacks on marked targets deal additional Physical and Magic Damage equal to 12% of the target's Max HP. Cooldown: 15 seconds. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.","passive After dealing damage to an enemy hero, mark them for 3 seconds. Allied heroes' sttacks on marked targets deal additional Physical and Magic Damage equal to 12% of the target's Max HP. Cooldown: 15 seconds. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.",,https://www.mlbbguides.com/tupian/zhuangbei/passive-dire-hit.png,"Item: Passive - Dire Hit
+Category: Item / Roam
+Cost: 
+Description: After dealing damage to an enemy hero, mark them for 3 seconds. Allied heroes' sttacks on marked targets deal additional Physical...
+Stats: After dealing damage to an enemy hero, mark them for 3 seconds. Allied heroes' sttacks on marked targets deal additional Physical and Magic Damage equal to 12% of the target's Max HP. Cooldown: 15 seconds. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.
+Passive: passive After dealing damage to an enemy hero, mark them for 3 seconds. Allied heroes' sttacks on marked targets deal additional Physical and Magic Damage equal to 12% of the target's Max HP. Cooldown: 15 seconds. Heroes with this Blessing can gain EXP and Gold by dealing damage to enemy heroes (Cooldown: 15 seconds) or revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion."
+Passive - Encourage,Item / Roam,Grants nearby allied heroes (including self) 20 extra Hybrid Defense. <br> Heroes with this Blessing can gain 35% EXP and Gold fr...,Grants nearby allied heroes (including self) 20 extra Hybrid Defense. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.,passive Grants nearby allied heroes (including self) 20 extra Hybrid Defense. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.,,https://www.mlbbguides.com/tupian/zhuangbei/passive-encourage.png,"Item: Passive - Encourage
+Category: Item / Roam
+Cost: 
+Description: Grants nearby allied heroes (including self) 20 extra Hybrid Defense. <br> Heroes with this Blessing can gain 35% EXP and Gold fr...
+Stats: Grants nearby allied heroes (including self) 20 extra Hybrid Defense. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.
+Passive: passive Grants nearby allied heroes (including self) 20 extra Hybrid Defense. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemies. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion."
+Passive - Favor,Item / Roam,"Every 15 seconds, the next healing or shield skill recovers an 400 HP for the allied hero with the lowest HP (including self) wit...","Every 15 seconds, the next healing or shield skill recovers an 400 HP for the allied hero with the lowest HP (including self) within 5 units. Skills that only take effect on self cannot trigger this effect. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.","passive Every 15 seconds, the next healing or shield skill recovers an 400 HP for the allied hero with the lowest HP (including self) within 5 units. Skills that only take effect on self cannot trigger this effect. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.",,https://www.mlbbguides.com/tupian/zhuangbei/passive-favor.png,"Item: Passive - Favor
+Category: Item / Roam
+Cost: 
+Description: Every 15 seconds, the next healing or shield skill recovers an 400 HP for the allied hero with the lowest HP (including self) wit...
+Stats: Every 15 seconds, the next healing or shield skill recovers an 400 HP for the allied hero with the lowest HP (including self) within 5 units. Skills that only take effect on self cannot trigger this effect. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion.
+Passive: passive Every 15 seconds, the next healing or shield skill recovers an 400 HP for the allied hero with the lowest HP (including self) within 5 units. Skills that only take effect on self cannot trigger this effect. Heroes with this Blessing can gain 35% EXP and Gold from minions and creeps when allied heroes are nearby or by revealing enemy vision. This skill can only be unlocked after accumulating 1000 Gold from Thriving and Devotion."
