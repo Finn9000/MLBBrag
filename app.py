@@ -87,7 +87,7 @@ def render_hero_card(hero_row):
     st.divider()
 
 
-st.title("🎮 MLBB RAG Search System")
+st.title("MLBB RAG Search System")
 st.write("Ask questions about Mobile Legends heroes and items.")
 
 top_k = st.sidebar.slider(
